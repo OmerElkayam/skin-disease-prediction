@@ -83,7 +83,7 @@ If you only want to **use the dashboard**:
 ---
 
 ## 📉 Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](https://github.com/OmerElkayam/skin-disease-prediction/blob/main/Skin_Cancer/assets/Screenshot%202025-08-16%20032210.png)
 
 ---
 
