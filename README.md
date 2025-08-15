@@ -9,7 +9,7 @@ You can:
 - **Run the dashboard** using pre-trained weights for instant predictions.
 
 ## 🎥  Dashboard Demo
-![Precision-Recall Curve](https://github.com/OmerElkayam/skin-disease-prediction/blob/main/Skin_Cancer/assets/Untitled%20design.mp4)
+![Demo](https://github.com/HAMMAD-Shahid27/Skin-Cancer-Detection/blob/main/SKIN_CANCER_GIF.gif)
 
 
 ---
