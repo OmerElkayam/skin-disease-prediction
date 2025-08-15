@@ -92,6 +92,11 @@ If you only want to **use the dashboard**:
 
 ---
 
+## 📈 ROC Curve
+![ROC Curve](https://github.com/OmerElkayam/skin-disease-prediction/blob/main/Skin_Cancer/assets/Screenshot%202025-08-16%20032230.png)
+
+---
+
 ## 📚 Dataset
 Dataset: **[ISIC Skin Cancer Dataset](https://www.isic-archive.com/)**  
 Place the dataset in the `data/` directory before training.
