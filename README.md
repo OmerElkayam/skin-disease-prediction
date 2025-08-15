@@ -88,7 +88,7 @@ If you only want to **use the dashboard**:
 ---
 
 ## 📈 ROC Curve
-![ROC Curve](roc_curve.png)
+![ROC Curve](Skin_Cancer/assets/Screenshot 2025-08-16 032230.png)
 
 ---
 
