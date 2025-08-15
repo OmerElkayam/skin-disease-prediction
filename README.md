@@ -92,8 +92,8 @@ If you only want to **use the dashboard**:
 
 ---
 
-## 📈 ROC Curve
-![ROC Curve](https://github.com/OmerElkayam/skin-disease-prediction/blob/main/Skin_Cancer/assets/Screenshot%202025-08-16%20032230.png)
+## 📈 Precision-Recall Curve
+![Precision-Recall Curve](https://github.com/OmerElkayam/skin-disease-prediction/blob/main/Skin_Cancer/assets/Screenshot%202025-08-16%20032230.png)
 
 ---
 
