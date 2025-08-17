@@ -16,6 +16,8 @@ You can:
 
 ### Live at
 
+      https://huggingface.co/spaces/omerel896/Skin_Disease_Prediction
+
 ## 📂 Project Structure
 ```
 .
